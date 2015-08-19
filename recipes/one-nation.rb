@@ -6,5 +6,6 @@
 git "/usr/share/nginx/html" do
     repository "git://github.com/GannettDigital/one-nation.git"
     reference "master"
+    destination "."
     action :sync
 end
