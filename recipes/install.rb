@@ -1,6 +1,6 @@
 #
-# Cookbook Name:: git-clone
-# Recipe:: one-nation
+# Cookbook Name:: one-nation
+# Recipe:: install
 #
 # Copyright (c) 2015 The Authors, All Rights Reserved.
 directory "/usr/share/nginx/html/" do
